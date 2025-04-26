@@ -36,6 +36,15 @@ Visualization:Japan Earthquake prediction\earthquake_predictions_line_graphs.png
 2x2 grid of line graphs for magnitude, intensity, probability, and top epicenters.
 Console: Displays debug messages and the first 100 predictions.
 Example Output:
+
+
+
+
+
+
+
+
+
 First 100 Predictions (or all if fewer):
       Date  Time                                 Epicenter  Magnitude  Seismic Intensity  Probability
 2025-04-27 04:00 Off the west Coast of Ishikawa Prefecture        2.8                1.9        0.965
